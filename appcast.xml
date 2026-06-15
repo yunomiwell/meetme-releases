@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>meet.me</title>
+    <description>meet.me updates</description>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Mon, 15 Jun 2026 08:19:01 +0000</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>First release of meet.me — privacy-first meeting transcription for macOS.</description>
+      <enclosure url="https://github.com/yunomiwell/meetme-releases/releases/download/v0.1.0/meet.me.dmg" length="469347986" type="application/octet-stream" sparkle:version="0.1.0" sparkle:shortVersionString="0.1.0"/>
+    </item>
+  </channel>
+</rss>
