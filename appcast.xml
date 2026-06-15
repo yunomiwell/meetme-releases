@@ -4,13 +4,13 @@
     <title>meet.me</title>
     <description>meet.me updates</description>
     <item>
-      <title>Version 0.1.0</title>
-      <pubDate>Mon, 15 Jun 2026 08:19:01 +0000</pubDate>
-      <sparkle:version>0.1.0</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>Version 0.2.0</title>
+      <pubDate>Mon, 15 Jun 2026 21:29:27 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>First release of meet.me — privacy-first meeting transcription for macOS.</description>
-      <enclosure url="https://github.com/yunomiwell/meetme-releases/releases/download/v0.1.0/meet.me.dmg" length="469347986" type="application/octet-stream" sparkle:version="0.1.0" sparkle:shortVersionString="0.1.0"/>
+      <description>Fact-check (on-device claim extraction + opt-in online verification), on-device personalization in every language with one-click Train, and in-app transcript correction.</description>
+      <enclosure url="https://github.com/yunomiwell/meetme-releases/releases/download/v0.2.0/meet.me.dmg" length="515616604" type="application/octet-stream" sparkle:version="0.2.0" sparkle:shortVersionString="0.2.0"/>
     </item>
   </channel>
 </rss>
