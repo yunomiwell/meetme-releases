@@ -4,13 +4,13 @@
     <title>meet.me</title>
     <description>meet.me updates</description>
     <item>
-      <title>Version 0.2.2</title>
-      <pubDate>Thu, 18 Jun 2026 09:16:44 +0000</pubDate>
-      <sparkle:version>0.2.2</sparkle:version>
-      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <title>Version 0.2.3</title>
+      <pubDate>Fri, 19 Jun 2026 07:55:41 +0000</pubDate>
+      <sparkle:version>0.2.3</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <description>meet.me 0.2.2</description>
-      <enclosure url="https://github.com/yunomiwell/meetme-releases/releases/download/v0.2.2/meet.me.dmg" length="582527655" type="application/octet-stream" sparkle:version="0.2.2" sparkle:shortVersionString="0.2.2"/>
+      <description>meet.me 0.2.3</description>
+      <enclosure url="https://github.com/yunomiwell/meetme-releases/releases/download/v0.2.3/meet.me.dmg" length="584512597" type="application/octet-stream" sparkle:version="0.2.3" sparkle:shortVersionString="0.2.3"/>
     </item>
   </channel>
 </rss>
